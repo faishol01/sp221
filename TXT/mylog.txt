@@ -1,0 +1,14 @@
+# REV06 Wed 07 Jul 2021 20:15:07 WIB
+# REV04 Sun 21 Feb 2021 11:15:43 WIB
+# REV03 Thu Sep 24 11:51:01 WIB 2020
+# REV02 Tue Sep 22 21:16:52 WIB 2020
+# REV01 Sat Sep 12 00:52:34 WIB 2020
+# START Tue Sep 08 11:14:17 WIB 2020
+# ##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
