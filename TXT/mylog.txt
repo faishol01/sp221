@@ -12,3 +12,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC WEEK0 100 L02 Kelas hari selasa
+ZCZC WEEK0 30 L02 Kelas hari kamis
+ZCZC WEEK0 90 L32 Install debian dan troubleshoot partisi
+ZCZC WEEK0 15 L22 Kuis 0
+ZCZC WEEK0 26 L10 Mengerjakan tugas week 0 
+
