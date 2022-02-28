@@ -23,7 +23,7 @@ REC2="faishol.amirul27@gmail.com"
 REC1="63FB12B215403B20"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
-RESDIR="/home/faishol01/RESULT_SP/"
+RESDIR="/home/faishol01/SP_RESULT/"
 
 [ -d $RESDIR ] || mkdir -p $RESDIR
 pushd $RESDIR
