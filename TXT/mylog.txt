@@ -28,3 +28,8 @@ ZCZC W02 540 L12 Mengerjakan tugas week 2
 ZCZC W03 120 L23 Compile kernel with fuse module
 ZCZC W03 100 L02 Kelas hari selasa
 ZCZC W03 90 L07 Membaca FUSE
+ZCZC W04 120 L23 Compile kernel
+ZCZC W04 100 L02 Kelas hari kamis
+ZCZC W04 60 L13 Mengerjakan tugas week 4
+ZCZC W04 30 L02 Kelas hari selasa
+ZCZC W04 30 L22 Kuis 4
