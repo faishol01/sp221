@@ -33,3 +33,8 @@ ZCZC W04 100 L02 Kelas hari kamis
 ZCZC W04 60 L13 Mengerjakan tugas week 4
 ZCZC W04 30 L02 Kelas hari selasa
 ZCZC W04 30 L22 Kuis 4
+ZCZC W05 30 L22 Kuis 5
+ZCZC W05 120 L23 Compile Kernel
+ZCZC W05 180 L14 Mengerjakan tugas Week 5
+ZCZC W05 30 L02 Kelas Selasa
+ZCZC W05 100 L02 Kelas Kamis
