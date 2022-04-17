@@ -38,3 +38,6 @@ ZCZC W05 120 L23 Compile Kernel
 ZCZC W05 180 L14 Mengerjakan tugas Week 5
 ZCZC W05 30 L02 Kelas Selasa
 ZCZC W05 100 L02 Kelas Kamis
+ZCZC w06 120 L23 Compile kernel
+ZCZC W06 50 L02 kelas kamis
+ZCZC W06 100 L02 Kelas selasa
