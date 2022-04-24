@@ -41,3 +41,7 @@ ZCZC W05 100 L02 Kelas Kamis
 ZCZC w06 120 L23 Compile kernel
 ZCZC W06 50 L02 kelas kamis
 ZCZC W06 100 L02 Kelas selasa
+ZCZC W07 100 L02 Kelas selasa
+ZCZC W07 50 L02 kelas kamis
+ZCZC W07 120 L23 compile kernel
+ZCZC W07 50 L16 Mengerjakan tugas week 7
