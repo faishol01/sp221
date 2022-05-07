@@ -47,3 +47,4 @@ ZCZC W07 120 L23 compile kernel
 ZCZC W07 50 L16 Mengerjakan tugas week 7
 ZCZC W08 50 L17 mengerjakan tugas week 8
 ZCZC W08 120 L23 compile kernel
+ZCZC W09 50 L18 mengerjakan quiz 09
